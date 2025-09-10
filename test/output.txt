@@ -1,12 +1,4 @@
-AC Milan: Chelsea
-Arsenal: Fullham, Fullham, Lyon, Manchester City
-Barcelona: Chelsea, Fullham, Lyon, Real Madrid
-Chelsea: AC Milan, Barcelona, Fullham
-Fullham: Arsenal, Arsenal, Barcelona, Chelsea, Liverpool
-Liverpool: Fullham
-Liverpool : Manchester United
-Lyon: Arsenal, Barcelona
-Manchester City: Arsenal, PSG
-Manchester United: Liverpool 
-PSG: Manchester City
-Real Madrid: Barcelona
+3 12
+3 9
+4 7
+5 12
